@@ -10,10 +10,13 @@ optional arguments:
   -h, --help            show this help message and exit
   -f LOGFILE, --logfile LOGFILE
                         log file to analysis.
+                        
   -t LOGTYPE, --logtype LOGTYPE
                         which type of zhe log:apache|nginx|iis
+                        
   -u BASEURL, --baseurl BASEURL
                         log for website domain url
+                     
   --version             show program's version number and exit
   
 ## 举例说明

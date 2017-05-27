@@ -1,0 +1,1 @@
+..\..\Scripts\pyinstaller main.spec

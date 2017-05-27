@@ -1,0 +1,116 @@
+{
+  "search": {
+    "so360": {
+      "domains": [
+        ".360.",
+        ".so."
+      ],
+      "parameters": [
+        "q"
+      ]
+    },
+
+    "aol": {
+      "domains": [
+        ".aol."
+      ],
+      "parameters": [
+        "q",
+        "query"
+      ]
+    },
+
+    "google":{
+      "domains":[".google."],
+      "parameters":["q"]
+    },
+
+    "baidu":{
+      "domains":[".baidu."],
+      "parameters":[
+        "wd",
+        "word",
+        "kw",
+        "k",
+		"key"
+      ]
+    },
+
+    "zhongsou": {
+      "domains": [
+          ".zhongsou."
+      ],
+      "parameters": [
+          "w"
+      ]
+    },
+
+    "bing": {
+      "domains": [
+        ".bing."
+      ],
+      "parameters": [
+        "q",
+        "Q"
+      ]
+    },
+
+    "yahoo": {
+       "domains": [
+         ".yahoo."
+       ],
+       "parameters": [
+         "q",
+         "p"
+       ]
+     },
+
+    "ask": {
+       "domains": [
+         ".ask."
+       ],
+       "parameters": [
+         "q"
+       ]
+    },
+    "sogou": {
+      "domains": [
+          ".sogou."
+      ],
+      "parameters": [
+        "query",
+		"keyword"
+      ]
+    },
+
+    "yandex": {
+            "domains": [".yandex."],
+            "parameters": ["text"]
+        },
+    "naver": {
+            "domains": [
+                ".naver."
+            ],
+            "parameters": [
+                "query"
+            ]
+        },
+    "taobao": {
+            "domains": [
+                ".taobao.",".tmall."
+            ],
+            "parameters": [
+                "q"
+            ]
+        },
+    "alibaba": {
+            "domains": [
+                ".1688.",".alibaba."
+            ],
+            "parameters": [
+                "keywords",
+                "SearchText"
+            ]
+        }
+  }
+}

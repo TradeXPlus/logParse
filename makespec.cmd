@@ -1,0 +1,1 @@
+..\..\Scripts\pyi-makespec.exe -F -w --onefile --icon=icon.ico --hidden-import win32timezone main.py

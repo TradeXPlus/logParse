@@ -1,0 +1,28 @@
+{
+   "device": {
+      "pc": ["Windows NT","Macintosh","Windows+NT"],
+      "mobile": ["Mobile"],
+      "spider": ["Googlebot","bingbot","Baiduspider","Sogou web spider","360Spider","JikeSpider","YisouSpider"]
+   },
+
+   "os": {
+     "ios": ["Mac OS X","Mac+OS+X"],
+     "osx": ["Macintosh"],
+     "android":["Android"],
+     "windows":["Windows NT","Windows+NT"],
+     "linux":["X11"]
+   },
+
+   "browser":{
+      "ie":["MSIE"],
+      "edge":["Edge","EDGE"],
+      "firefox":["Firefox"],
+      "opera":["Opera"],
+      "safari":["Safari"],
+      "chrome":["Chrome"],
+      "qq":["QQBrowser"],
+      "weixin":["MicroMessenger"],
+      "uc":["UCBrowser"],
+      "baidu":["baiduboxapp"]
+   }
+}
